@@ -16,7 +16,9 @@ The models are trained on *An Inquiry into the Nature and Causes of the Wealth o
 
 ## Repository Structure
 ├── code.ipynb # Jupyter / Google Colab notebook with all experiments
+
 ├── report.pdf # Written report (PDF)
+
 └── README.md # This file
 
 
